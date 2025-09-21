@@ -1,0 +1,4 @@
+#include "resource.h"
+
+IDI_MAINICON ICON "../assets/icon.ico"
+IDR_HTML1 TEXTFILE "../frontend/index.html"
